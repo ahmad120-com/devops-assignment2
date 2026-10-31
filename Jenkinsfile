@@ -17,7 +17,7 @@ pipeline {
         COMPOSE_FILE = 'part2/docker-compose.yml'
         PROJECT      = 'part2'
         // CHANGE THIS to your EC2 Elastic IP
-        APP_URL      = 'http://YOUR-ELASTIC-IP:9090'
+        APP_URL      =  'http://52.64.145.226:9090'
     }
 
     stages {
