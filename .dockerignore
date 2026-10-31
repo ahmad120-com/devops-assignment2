@@ -1,0 +1,5 @@
+.git
+part2
+Jenkinsfile
+*.md
+__pycache__
